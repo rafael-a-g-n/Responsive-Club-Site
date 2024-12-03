@@ -25,3 +25,7 @@ The project is deployed on GitHub Pages and can be viewed [here](https://rafael-
 ## Repository
 
 You can explore the code and contribute to the project by visiting the [GitHub repository](https://rafael-a-g-n.github.io/Flexbox-Business-Site/).
+
+## Contact
+
+LinkedIN - [Rafael Nogueira](https://www.linkedin.com/in/ragn/)
